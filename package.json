@@ -1,0 +1,29 @@
+{
+    "name": "next-perfect-score-config",
+    "version": "1.0.0",
+    "description": "Next.js 16 configuration for 100/100 Lighthouse scores. Used in production at knaru.com.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/DuginK/next-perfect-score-config.git"
+    },
+    "keywords": [
+        "nextjs",
+        "nextjs16",
+        "react19",
+        "seo",
+        "lighthouse",
+        "performance",
+        "web-vitals",
+        "vercel"
+    ],
+    "author": "Knaru <dev@knaru.com> (https://knaru.com)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/knaru-dev/next-perfect-score-config/issues"
+    },
+    "homepage": "https://knaru.com"
+}
